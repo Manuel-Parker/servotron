@@ -89,4 +89,6 @@ Résultats mesurés en simulation :
 
 ## Auteur
 
+Helmut EDOH
+Sharon MEMVOUTA
 Manuel Parker NGOUNOU
