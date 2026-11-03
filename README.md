@@ -66,7 +66,7 @@ Chaque test est indépendant : on l'ouvre dans l'Arduino IDE et on le télévers
 | `interface` | `test_boutons`, `test_led` |
 | `fonctions` | `avancer`, `reculer`, `tourner_gauche`, `tourner_droite`, `carre`, `triangle`, `cercle`, `suivi_ligne`, `evitement_obstacle` |
 
-Je conseille de commencer par `test_moteurs`, roues levées, pour vérifier le câblage et le sens de rotation.
+L'idéal serait de ommencer par `test_moteurs`, roues levées, pour vérifier le câblage et le sens de rotation.
 
 ## Simulation Webots
 
