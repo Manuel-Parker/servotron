@@ -8,7 +8,7 @@ Ce dépôt contient tout le nécessaire pour construire une réplique du robot e
 
 | Dossier | Contenu |
 |---|---|
-| `robot-reel/cao` | Pièces du robot (STL et SolidWorks) |
+| `robot-reel/cao` | Pièce simple du bas |
 | `robot-reel/ihm` | Interface web, lisible séparément |
 | `robot-reel/code-final` | Programme complet du robot |
 | `robot-reel/tests-unitaires` | Un programme par capteur, actionneur et fonction |
